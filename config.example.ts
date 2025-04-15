@@ -4,13 +4,13 @@ global.config = {
     bot: {
         name: 'Neura',
         prefix: /^[°•π÷×¶∆£¢€¥®™+✓_=|/~!?@#%^&.©^]/i,
-        phoneNumber: '6281284900651',
+        phoneNumber: '6212345678910',
         groupJid: '120363366663863260@g.us',
-        website: 'https://wa.me/6281284900651',
+        website: 'https://wa.me/6212345678910',
     },
     owner: {
         name: 'Myrex',
-        phoneNumber: '6281284900651',
+        phoneNumber: '6212345678910',
     },
     msg: {
         owner: quote('Maaf, Anda tidak memiliki akses ke perintah ini.'),
